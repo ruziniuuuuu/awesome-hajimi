@@ -1,0 +1,77 @@
+name: Auto Fetch Hajimi Videos
+
+on:
+  # Run every day at 2 AM UTC (10 AM Beijing Time)
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  fetch-hajimi-videos:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+        
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Create assets directory
+      run: mkdir -p assets/covers
+        
+    - name: Run Hajimi video fetcher
+      run: python3 fetch_hajimi_videos.py
+      
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet && git diff --cached --quiet; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.has_changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "🤖 Auto-fetch: Update Hajimi videos $(date +'%Y-%m-%d %H:%M:%S UTC')
+        
+        - Updated video list with latest Hajimi content
+        - Downloaded new video covers
+        - Refreshed view counts and rankings
+        
+        🤖 Generated with [Claude Code](https://claude.ai/code)"
+        git push
+        
+    - name: Log completion
+      run: |
+        echo "✅ Hajimi video fetch completed at $(date)"
+        if [[ "${{ steps.changes.outputs.has_changes }}" == "true" ]]; then
+          echo "📝 Changes detected and committed"
+        else
+          echo "📋 No changes detected"
+        fi

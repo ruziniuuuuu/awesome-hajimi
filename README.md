@@ -112,7 +112,22 @@ collections of hajimi (哈基米 in Chinese) on the Internet.
 
 ## 使用说明
 
+### 手动更新
 运行以下命令更新视频列表:
 ```bash
+# 安装依赖
+pip install -r requirements.txt
+
+# 运行脚本
 python3 fetch_hajimi_videos.py
 ```
+
+### 自动更新
+本项目配置了GitHub Actions自动化工作流：
+- ⏰ **每天凌晨2点UTC**（北京时间上午10点）自动运行
+- 🔄 **自动获取**最新的100个热门哈基米视频
+- 📸 **自动下载**新的视频封面
+- 📊 **自动更新**播放量和排名
+- 🚀 **自动提交**更改到仓库
+
+您也可以在GitHub仓库的Actions页面手动触发更新。
