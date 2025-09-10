@@ -1,0 +1,2 @@
+bilibili-api-python>=17.3.0
+aiohttp>=3.11.0
