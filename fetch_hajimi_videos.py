@@ -189,7 +189,7 @@ collections of hajimi (哈基米 in Chinese) on the Internet.
 
 ## 视频列表 (Video List)
 
-| 视频标题 (Title) | 封面 (Cover) | 播放量 (Views) | 发布日期 (Date) |
+| 视频标题 (Title) | 封面 | 播放量 (Views) | 发布日期 (Date) |
 |---|---|---|---|
 """
         
