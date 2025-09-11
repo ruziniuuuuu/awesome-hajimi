@@ -18,8 +18,35 @@ class HajimiVideoFetcher:
     def __init__(self):
         self.videos_data = []
         self.assets_dir = "assets/covers"
+        self.processed_bvids = set()  # Set to track processed BV IDs for deduplication
+        self.bvid_cache_file = "processed_bvids.txt"  # File to persist processed BV IDs
         # Create assets directory if it doesn't exist
         os.makedirs(self.assets_dir, exist_ok=True)
+        # Load previously processed BV IDs
+        self.load_processed_bvids()
+    
+    def load_processed_bvids(self):
+        """Load previously processed BV IDs from cache file"""
+        try:
+            if os.path.exists(self.bvid_cache_file):
+                with open(self.bvid_cache_file, 'r', encoding='utf-8') as f:
+                    self.processed_bvids = set(line.strip() for line in f if line.strip())
+                print(f"Loaded {len(self.processed_bvids)} previously processed BV IDs")
+            else:
+                print("No previous BV ID cache found, starting fresh")
+        except Exception as e:
+            print(f"Error loading BV ID cache: {e}")
+            self.processed_bvids = set()
+    
+    def save_processed_bvids(self):
+        """Save processed BV IDs to cache file"""
+        try:
+            with open(self.bvid_cache_file, 'w', encoding='utf-8') as f:
+                for bvid in sorted(self.processed_bvids):
+                    f.write(f"{bvid}\n")
+            print(f"Saved {len(self.processed_bvids)} processed BV IDs to cache")
+        except Exception as e:
+            print(f"Error saving BV ID cache: {e}")
     
     async def search_hajimi_videos(self, keyword: str = "哈基米", total_videos: int = 100) -> List[Dict[str, Any]]:
         """Search for Hajimi related videos"""
@@ -59,8 +86,15 @@ class HajimiVideoFetcher:
                     print("No more videos available")
                     break
                 
-                all_videos.extend(videos)
-                print(f"Collected {len(all_videos)} videos so far...")
+                # Add videos to list, avoiding duplicates within search results and with processed videos
+                for video in videos:
+                    bvid = video.get('bvid', '')
+                    if (bvid and 
+                        bvid not in [v.get('bvid', '') for v in all_videos] and
+                        bvid not in self.processed_bvids):
+                        all_videos.append(video)
+                
+                print(f"Collected {len(all_videos)} unique videos so far...")
                 
                 # Break if we got less than page_size results (end of results)
                 if len(videos) < page_size:
@@ -131,6 +165,14 @@ class HajimiVideoFetcher:
                 if not bvid:
                     continue
                 
+                # Check for duplicate BV ID
+                if bvid in self.processed_bvids:
+                    print(f"Skipping duplicate video: {bvid}")
+                    continue
+                
+                # Add to processed set
+                self.processed_bvids.add(bvid)
+                
                 # Get detailed video information
                 v = video.Video(bvid=bvid)
                 detail = await v.get_info()
@@ -148,9 +190,13 @@ class HajimiVideoFetcher:
                     publish_date = datetime.min  # For sorting purposes
                     formatted_date = "未知"
                 
+                # Extract and clean the title
+                raw_title = video_info.get('title', '').replace('<em class="keyword">', '').replace('</em>', '')
+                cleaned_title = self.clean_title_for_markdown(raw_title)
+                
                 # Extract the information we need
                 video_data = {
-                    'title': video_info.get('title', '').replace('<em class="keyword">', '').replace('</em>', ''),
+                    'title': cleaned_title,
                     'bvid': bvid,
                     'cover': local_cover_path,
                     'view_count': detail.get('stat', {}).get('view', 0),
@@ -173,6 +219,29 @@ class HajimiVideoFetcher:
         print(f"Videos sorted by publish date (newest first)")
         
         return detailed_videos
+    
+    def clean_title_for_markdown(self, title: str) -> str:
+        """Clean video title to prevent Markdown table rendering issues"""
+        if not title:
+            return title
+        
+        # Remove HTML tags that might be in the title
+        import re
+        title = re.sub(r'<[^>]+>', '', title)
+        
+        # Replace problematic characters for Markdown tables
+        # Replace pipe character | with a similar character or remove it
+        title = title.replace('|', '｜')  # Use full-width pipe character
+        
+        # Replace other problematic characters
+        title = title.replace('"', '"').replace('"', '"')  # Replace smart quotes
+        title = title.replace(''', "'").replace(''', "'")  # Replace smart apostrophes
+        
+        # Remove or replace other special characters that might break Markdown
+        # Keep emojis but ensure they don't break the table
+        title = title.strip()
+        
+        return title
     
     def format_view_count(self, count: int) -> str:
         """Format view count in a human-readable way"""
@@ -224,9 +293,22 @@ python3 fetch_hajimi_videos.py
         
         return content
     
-    async def run(self):
+    def clear_cache(self):
+        """Clear the BV ID cache file"""
+        try:
+            if os.path.exists(self.bvid_cache_file):
+                os.remove(self.bvid_cache_file)
+                print("BV ID cache cleared")
+            self.processed_bvids.clear()
+        except Exception as e:
+            print(f"Error clearing cache: {e}")
+    
+    async def run(self, clear_cache_flag=False):
         """Main execution function"""
         try:
+            if clear_cache_flag:
+                self.clear_cache()
+            
             # Search for videos (100 videos)
             videos = await self.search_hajimi_videos(total_videos=100)
             
@@ -243,6 +325,9 @@ python3 fetch_hajimi_videos.py
             
             print(f"Successfully processed {len(detailed_videos)} videos")
             
+            # Save processed BV IDs to cache
+            self.save_processed_bvids()
+            
             # Generate README content
             readme_content = self.generate_readme_content(detailed_videos)
             
@@ -258,8 +343,15 @@ python3 fetch_hajimi_videos.py
 
 
 async def main():
+    import argparse
+    
+    parser = argparse.ArgumentParser(description='Fetch Hajimi videos from Bilibili')
+    parser.add_argument('--clear-cache', action='store_true', 
+                       help='Clear the BV ID cache and start fresh')
+    args = parser.parse_args()
+    
     fetcher = HajimiVideoFetcher()
-    await fetcher.run()
+    await fetcher.run(clear_cache_flag=args.clear_cache)
 
 
 if __name__ == "__main__":
