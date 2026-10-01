@@ -5,11 +5,12 @@ collections of hajimi (哈基米 in Chinese) on the Internet.
 
 | 视频标题 (Title) | 封面 | 播放量 (Views) | 发布日期 (Date) |
 |---|---|---|---|
-| [老虎VS哈基米谁会赢？#电子榨菜 #火影忍者手游](https://www.bilibili.com/video/BV1duhd6aEsM) | <img src="assets/covers/BV1duhd6aEsM.jpg" alt="cover" width="120"> | 19.8万 | 2026-09-26 |
-| [搁你你也哈](https://www.bilibili.com/video/BV12xeB6BEsi) | <img src="assets/covers/BV12xeB6BEsi.jpg" alt="cover" width="120"> | 8.7万 | 2026-09-20 |
+| [给大家安排的哈基米已经到位啦](https://www.bilibili.com/video/BV12Aao6JE57) | <img src="assets/covers/BV12Aao6JE57.jpg" alt="cover" width="120"> | 1346 | 2026-09-30 |
+| [今天做棉被](https://www.bilibili.com/video/BV1sKao67EKx) | <img src="assets/covers/BV1sKao67EKx.jpg" alt="cover" width="120"> | 59.5万 | 2026-09-30 |
+| [太陽系 ｜ 終極尺寸比較 ｜ 4K 3D 動畫  ｜ (2026)](https://www.bilibili.com/video/BV1LFbx6gE39) | <img src="assets/covers/BV1LFbx6gE39.jpg" alt="cover" width="120"> | 1.0万 | 2026-09-06 |
 
 ---
-*最后更新: 2026-09-29 08:15:26 (自动生成)*
+*最后更新: 2026-10-01 08:42:52 (自动生成)*
 *数据来源: [Bilibili](https://www.bilibili.com)*
 
 ## 使用说明
