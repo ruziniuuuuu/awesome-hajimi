@@ -5,13 +5,13 @@ collections of hajimi (哈基米 in Chinese) on the Internet.
 
 | 视频标题 (Title) | 封面 | 播放量 (Views) | 发布日期 (Date) |
 |---|---|---|---|
-| [哈基米曼波鼠鼠哈哈币之歌又听哭了多少人呢](https://www.bilibili.com/video/BV1NWJe6WEsR) | <img src="assets/covers/BV1NWJe6WEsR.jpg" alt="cover" width="120"> | 1532 | 2026-10-17 |
-| [基米：助我破鼎！](https://www.bilibili.com/video/BV1KwJv6tEfa) | <img src="assets/covers/BV1KwJv6tEfa.jpg" alt="cover" width="120"> | 1168 | 2026-10-17 |
-| [奶牛猫也太好玩啦](https://www.bilibili.com/video/BV12SJt63EX3) | <img src="assets/covers/BV12SJt63EX3.jpg" alt="cover" width="120"> | 1.8万 | 2026-10-16 |
-| [【ASMR】“刚穿上不要撕破了...”💗换上新衣の人妻引导你的手慢慢往下带（HiRes无损/哈气/亲亲/剧情）](https://www.bilibili.com/video/BV12qHe6hEsg) | <img src="assets/covers/BV12qHe6hEsg.jpg" alt="cover" width="120"> | 8.0万 | 2026-10-03 |
+| [被哈基米咬到了](https://www.bilibili.com/video/BV1J3nj6aE3v) | <img src="assets/covers/BV1J3nj6aE3v.jpg" alt="cover" width="120"> | 4467 | 2026-10-19 |
+| [以后我就靠流浪猫生活了](https://www.bilibili.com/video/BV1Urn36iE2A) | <img src="assets/covers/BV1Urn36iE2A.jpg" alt="cover" width="120"> | 5.1万 | 2026-10-18 |
+| [喵owl日记（哈基咪运动会）](https://www.bilibili.com/video/BV1wfJD6eE35) | <img src="assets/covers/BV1wfJD6eE35.jpg" alt="cover" width="120"> | 1.8万 | 2026-10-16 |
+| [巨型布偶猫来袭 统统闪开！！！](https://www.bilibili.com/video/BV1mLWw65EsT) | <img src="assets/covers/BV1mLWw65EsT.jpg" alt="cover" width="120"> | 303.7万 | 2026-10-13 |
 
 ---
-*最后更新: 2026-10-18 07:13:09 (自动生成)*
+*最后更新: 2026-10-20 07:26:31 (自动生成)*
 *数据来源: [Bilibili](https://www.bilibili.com)*
 
 ## 使用说明
