@@ -5,109 +5,109 @@ collections of hajimi (哈基米 in Chinese) on the Internet.
 
 | 视频标题 (Title) | 封面 | 播放量 (Views) | 发布日期 (Date) |
 |---|---|---|---|
-| [这是一条记录O神教训哈基米的视频【0verthink1NG】](https://www.bilibili.com/video/BV1YTWb6eEkq) | <img src="assets/covers/BV1YTWb6eEkq.jpg" alt="cover" width="120"> | 1593 | 2026-11-09 |
-| [【全熟】新人日本巫女看圆头耄耋名场面 【好可爱~哈基米~好....可怕！比恐怖游戏还可怕！！】](https://www.bilibili.com/video/BV1SaWx6SEZj) | <img src="assets/covers/BV1SaWx6SEZj.jpg" alt="cover" width="120"> | 1633 | 2026-11-09 |
-| [【星铁熟肉/miumi】miumi被赛飞儿临终告白破防，看到小白的留言化身哈基米疯狂哈气。#みうみみう](https://www.bilibili.com/video/BV13bWx6XE2b) | <img src="assets/covers/BV13bWx6XE2b.jpg" alt="cover" width="120"> | 1360 | 2026-11-09 |
-| [哈基米：人，你没事吧？](https://www.bilibili.com/video/BV1H2Wx6gEyA) | <img src="assets/covers/BV1H2Wx6gEyA.jpg" alt="cover" width="120"> | 4116 | 2026-11-09 |
-| [哈基米听到老吴却匹配不到对手以为闹鬼了](https://www.bilibili.com/video/BV1wtW46GEsF) | <img src="assets/covers/BV1wtW46GEsF.jpg" alt="cover" width="120"> | 1723 | 2026-11-09 |
-| [哈基米又来偷东西吃](https://www.bilibili.com/video/BV1spW461EEz) | <img src="assets/covers/BV1spW461EEz.jpg" alt="cover" width="120"> | 1062 | 2026-11-09 |
-| [FTK型哈基米,五分钟天梯狂赢四局!【游戏王MD】](https://www.bilibili.com/video/BV1gNWp6rE68) | <img src="assets/covers/BV1gNWp6rE68.jpg" alt="cover" width="120"> | 1384 | 2026-11-09 |
-| [相信我的歌品](https://www.bilibili.com/video/BV1GvWE6vE4r) | <img src="assets/covers/BV1GvWE6vE4r.jpg" alt="cover" width="120"> | 2508 | 2026-11-09 |
-| [【1-4季】开局就是一局日本话，哈基米！熬夜猝死穿越成废柴，娶的残疾妻子竟也是蓝星穿越者](https://www.bilibili.com/video/BV1zKWW6fEmn) | <img src="assets/covers/BV1zKWW6fEmn.jpg" alt="cover" width="120"> | 3271 | 2026-11-08 |
-| [调用代码无需思考，基米的轮椅复读指南](https://www.bilibili.com/video/BV11dWp6iERR) | <img src="assets/covers/BV11dWp6iERR.jpg" alt="cover" width="120"> | 2675 | 2026-11-08 |
-| [【ShenYue】初入rx以为遇到好人了可以直接哈基米曼波鼠鼠得吃，但没想到遇到的却是一个玩弄人心的恶魔...](https://www.bilibili.com/video/BV1XkWp6LEas) | <img src="assets/covers/BV1XkWp6LEas.jpg" alt="cover" width="120"> | 824 | 2026-11-08 |
-| [哈基米想骑自行车了](https://www.bilibili.com/video/BV1k6WH6ZE7c) | <img src="assets/covers/BV1k6WH6ZE7c.jpg" alt="cover" width="120"> | 1368 | 2026-11-08 |
-| [超袖和乔乐秀恩爱，结果不小心把哈基米……](https://www.bilibili.com/video/BV1z1WH6sExT) | <img src="assets/covers/BV1z1WH6sExT.jpg" alt="cover" width="120"> | 1253 | 2026-11-08 |
-| [万一真的是哈基米自己烤的烤鸭呢](https://www.bilibili.com/video/BV1k6WH6ZEpH) | <img src="assets/covers/BV1k6WH6ZEpH.jpg" alt="cover" width="120"> | 1114 | 2026-11-08 |
-| [为了练倒立竟然自断一条腿吗，哈基米你这家伙😭😭😭](https://www.bilibili.com/video/BV1n6WH6ZEYL) | <img src="assets/covers/BV1n6WH6ZEYL.jpg" alt="cover" width="120"> | 471 | 2026-11-08 |
-| [哈基米南北绿豆小白得吃非洲之心](https://www.bilibili.com/video/BV1xaWH6PEGH) | <img src="assets/covers/BV1xaWH6PEGH.jpg" alt="cover" width="120"> | 300 | 2026-11-08 |
-| [误入试炼惨被群趴，哈基米千里救大狗](https://www.bilibili.com/video/BV1sUWE6dEjQ) | <img src="assets/covers/BV1sUWE6dEjQ.jpg" alt="cover" width="120"> | 1166 | 2026-11-08 |
-| [claude：你是说哈基米把蛋糕偷走了？大肥鱼：对！](https://www.bilibili.com/video/BV1t6WE6wEXw) | <img src="assets/covers/BV1t6WE6wEXw.jpg" alt="cover" width="120"> | 769 | 2026-11-08 |
-| [来自哈基米的压力](https://www.bilibili.com/video/BV1vgWJ66Eat) | <img src="assets/covers/BV1vgWJ66Eat.jpg" alt="cover" width="120"> | 2130 | 2026-11-08 |
-| [基米幽默时刻之QQ爬虫](https://www.bilibili.com/video/BV1W8WJ6oEjs) | <img src="assets/covers/BV1W8WJ6oEjs.jpg" alt="cover" width="120"> | 4.7万 | 2026-11-08 |
-| [火舞大人带上两首BGM，就踏上新赛季的征途](https://www.bilibili.com/video/BV14xWJ68Egc) | <img src="assets/covers/BV14xWJ68Egc.jpg" alt="cover" width="120"> | 5229 | 2026-11-08 |
-| [哈基米惨遭袭击](https://www.bilibili.com/video/BV1xuWn6cET2) | <img src="assets/covers/BV1xuWn6cET2.jpg" alt="cover" width="120"> | 1.1万 | 2026-11-08 |
-| [11.08 哈基米](https://www.bilibili.com/video/BV14uWn6cEyP) | <img src="assets/covers/BV14uWn6cEyP.jpg" alt="cover" width="120"> | 1465 | 2026-11-08 |
-| [甜蜜小音登场](https://www.bilibili.com/video/BV1NgWn68EPY) | <img src="assets/covers/BV1NgWn68EPY.jpg" alt="cover" width="120"> | 8556 | 2026-11-08 |
-| [偶遇哈基米](https://www.bilibili.com/video/BV1VQWJ6kE6g) | <img src="assets/covers/BV1VQWJ6kE6g.jpg" alt="cover" width="120"> | 3196 | 2026-11-08 |
-| [哈基米系统故障在马路边直接触发底层代码](https://www.bilibili.com/video/BV1gZWJ6BEke) | <img src="assets/covers/BV1gZWJ6BEke.jpg" alt="cover" width="120"> | 5086 | 2026-11-08 |
-| [谁是最会打弹弹堂的AI？哈基米和龙龙把自己炸通透了！](https://www.bilibili.com/video/BV1xHW76sEdG) | <img src="assets/covers/BV1xHW76sEdG.jpg" alt="cover" width="120"> | 3042 | 2026-11-08 |
-| [“猫咪自己待着时候VS主人看着时候     哈基米的双面“喵声”🐱”](https://www.bilibili.com/video/BV14pW769Emm) | <img src="assets/covers/BV14pW769Emm.jpg" alt="cover" width="120"> | 1139 | 2026-11-08 |
-| [哈基米南北绿豆](https://www.bilibili.com/video/BV1qAW76qEuF) | <img src="assets/covers/BV1qAW76qEuF.jpg" alt="cover" width="120"> | 50 | 2026-11-08 |
-| [基米光速嚼口香糖加镭射激光眼，已调整至最好摸的状态](https://www.bilibili.com/video/BV1924s6wEbq) | <img src="assets/covers/BV1924s6wEbq.jpg" alt="cover" width="120"> | 6095 | 2026-11-08 |
-| [【TOP15】劉俊朗歌曲B站热度排行，第一名实至名归！](https://www.bilibili.com/video/BV17H4x6ME8P) | <img src="assets/covers/BV17H4x6ME8P.jpg" alt="cover" width="120"> | 4983 | 2026-11-08 |
-| [【凿凿凿行动】城郊幻境（高危2M）41.8w→????w｜绝区零搜打撤](https://www.bilibili.com/video/BV17E4x6gERP) | <img src="assets/covers/BV17E4x6gERP.jpg" alt="cover" width="120"> | 1.6万 | 2026-11-08 |
-| [哈基米曼波叔叔德吃鸡米航天](https://www.bilibili.com/video/BV1mc4x6QEXt) | <img src="assets/covers/BV1mc4x6QEXt.jpg" alt="cover" width="120"> | 1745 | 2026-11-08 |
-| [一声老吴挑起两只猫的战争](https://www.bilibili.com/video/BV1xA4x6nEPu) | <img src="assets/covers/BV1xA4x6nEPu.jpg" alt="cover" width="120"> | 7131 | 2026-11-08 |
-| [【CSP】来点美味小茂](https://www.bilibili.com/video/BV1gB4x64ET8) | <img src="assets/covers/BV1gB4x64ET8.jpg" alt="cover" width="120"> | 2069 | 2026-11-08 |
-| [🐱哈gemi 不 是 罪 过 ~🐱](https://www.bilibili.com/video/BV1vr4p6oEqx) | <img src="assets/covers/BV1vr4p6oEqx.jpg" alt="cover" width="120"> | 1763 | 2026-11-07 |
-| [允许哈气](https://www.bilibili.com/video/BV1dX4J6QEtc) | <img src="assets/covers/BV1dX4J6QEtc.jpg" alt="cover" width="120"> | 8.7万 | 2026-11-07 |
-| [哈基米南北绿豆](https://www.bilibili.com/video/BV1644n6bEsf) | <img src="assets/covers/BV1644n6bEsf.jpg" alt="cover" width="120"> | 176 | 2026-11-07 |
-| [邪恶基米试图毁灭世界](https://www.bilibili.com/video/BV1h14n6jEg9) | <img src="assets/covers/BV1h14n6jEg9.jpg" alt="cover" width="120"> | 4175 | 2026-11-07 |
-| [立冬快乐，记得吃饺子呀！](https://www.bilibili.com/video/BV1Yk4n6EEX2) | <img src="assets/covers/BV1Yk4n6EEX2.jpg" alt="cover" width="120"> | 5374 | 2026-11-07 |
-| [每次我哼歌，我家失聪的小猫都会贴过来](https://www.bilibili.com/video/BV1RR476kEKR) | <img src="assets/covers/BV1RR476kEKR.jpg" alt="cover" width="120"> | 1.9万 | 2026-11-07 |
-| [新赛季只拼运气拼炸胡吗](https://www.bilibili.com/video/BV1kw4H6vEkb) | <img src="assets/covers/BV1kw4H6vEkb.jpg" alt="cover" width="120"> | 5614 | 2026-11-07 |
-| [从哈基米到圣斗狮的悲剧](https://www.bilibili.com/video/BV1TK4E6KEhf) | <img src="assets/covers/BV1TK4E6KEhf.jpg" alt="cover" width="120"> | 4162 | 2026-11-07 |
-| [猫儿这个望镜畏](https://www.bilibili.com/video/BV1Dr4E63EUR) | <img src="assets/covers/BV1Dr4E63EUR.jpg" alt="cover" width="120"> | 7.4万 | 2026-11-07 |
-| [哈基宗日常](https://www.bilibili.com/video/BV1Dy4E6uEiT) | <img src="assets/covers/BV1Dy4E6uEiT.jpg" alt="cover" width="120"> | 7701 | 2026-11-07 |
-| [基米这个知恩图报](https://www.bilibili.com/video/BV1tU4E6iEym) | <img src="assets/covers/BV1tU4E6iEym.jpg" alt="cover" width="120"> | 6.3万 | 2026-11-07 |
-| [有够猎奇的](https://www.bilibili.com/video/BV1by4E6uEpJ) | <img src="assets/covers/BV1by4E6uEpJ.jpg" alt="cover" width="120"> | 9.9万 | 2026-11-07 |
-| [为什么说跑刀被追时不要一味的逃跑？](https://www.bilibili.com/video/BV1eY4E62Ess) | <img src="assets/covers/BV1eY4E62Ess.jpg" alt="cover" width="120"> | 51.3万 | 2026-11-07 |
-| [小朋友你作业掉了](https://www.bilibili.com/video/BV14y4j6hEdq) | <img src="assets/covers/BV14y4j6hEdq.jpg" alt="cover" width="120"> | 3.2万 | 2026-11-07 |
-| [曼波：斐波那契数列](https://www.bilibili.com/video/BV1qE4566EBR) | <img src="assets/covers/BV1qE4566EBR.jpg" alt="cover" width="120"> | 4761 | 2026-11-06 |
-| [小时候养过圣甲虫](https://www.bilibili.com/video/BV1pQ4q67E3F) | <img src="assets/covers/BV1pQ4q67E3F.jpg" alt="cover" width="120"> | 157.8万 | 2026-11-06 |
-| [⚡逆天蜘蛛侠⚡](https://www.bilibili.com/video/BV1qN4B6qE5Y) | <img src="assets/covers/BV1qN4B6qE5Y.jpg" alt="cover" width="120"> | 58.0万 | 2026-11-06 |
-| [哈基米也逃不过真香定律？](https://www.bilibili.com/video/BV1zf4q6rEoM) | <img src="assets/covers/BV1zf4q6rEoM.jpg" alt="cover" width="120"> | 5294 | 2026-11-06 |
-| [南瓜哈基米竟是白送?!又有放烟花拿钻!万圣节活动速览!&lt;杖剑传说&gt;](https://www.bilibili.com/video/BV1vA4i6cEGg) | <img src="assets/covers/BV1vA4i6cEGg.jpg" alt="cover" width="120"> | 3604 | 2026-11-06 |
-| [曼波 の 绿色「若不是你突然闯进我生活，我怎会把死守的寂寞放任了？」](https://www.bilibili.com/video/BV1rQ4v6BE29) | <img src="assets/covers/BV1rQ4v6BE29.jpg" alt="cover" width="120"> | 597 | 2026-11-06 |
-| [台上三分钟，台下十年功](https://www.bilibili.com/video/BV1Ee4e6wEfd) | <img src="assets/covers/BV1Ee4e6wEfd.jpg" alt="cover" width="120"> | 699 | 2026-11-06 |
-| [让对面睡不着也是游戏本质](https://www.bilibili.com/video/BV1mx4b6wEvH) | <img src="assets/covers/BV1mx4b6wEvH.jpg" alt="cover" width="120"> | 9480 | 2026-11-05 |
-| [研究发现：猫的梦里有98%是关于高等数学。](https://www.bilibili.com/video/BV1yL486ZEBe) | <img src="assets/covers/BV1yL486ZEBe.jpg" alt="cover" width="120"> | 19.4万 | 2026-11-05 |
-| [许愿的时候别忘了说是否接受调剂🌕](https://www.bilibili.com/video/BV13exQ6wEYM) | <img src="assets/covers/BV13exQ6wEYM.jpg" alt="cover" width="120"> | 10.8万 | 2026-11-04 |
-| [校园里的可爱猫咪～](https://www.bilibili.com/video/BV1Z9xS66EdT) | <img src="assets/covers/BV1Z9xS66EdT.jpg" alt="cover" width="120"> | 49.1万 | 2026-11-04 |
-| [舔基米](https://www.bilibili.com/video/BV1p14G65EXp) | <img src="assets/covers/BV1p14G65EXp.jpg" alt="cover" width="120"> | 1.6万 | 2026-11-03 |
-| [猫咪：天冷了，我要回我的狗窝睡觉觉了！](https://www.bilibili.com/video/BV1kP4g6eE8D) | <img src="assets/covers/BV1kP4g6eE8D.jpg" alt="cover" width="120"> | 58.9万 | 2026-11-03 |
-| [王楚钦＆张本智和《Trouble Maker》【AI MV大赛】](https://www.bilibili.com/video/BV1No4u6gEbg) | <img src="assets/covers/BV1No4u6gEbg.jpg" alt="cover" width="120"> | 29.6万 | 2026-11-03 |
-| [难绷 TV 之搞快点](https://www.bilibili.com/video/BV1yq4M6PE21) | <img src="assets/covers/BV1yq4M6PE21.jpg" alt="cover" width="120"> | 34.6万 | 2026-11-03 |
-| [猫：不努力就会沦为人类的玩物！](https://www.bilibili.com/video/BV1Ud4w6REqw) | <img src="assets/covers/BV1Ud4w6REqw.jpg" alt="cover" width="120"> | 5.2万 | 2026-11-02 |
-| [基米这个有人性](https://www.bilibili.com/video/BV1tCxh6vEU4) | <img src="assets/covers/BV1tCxh6vEU4.jpg" alt="cover" width="120"> | 21.8万 | 2026-11-02 |
-| [那双眼睛，毋庸置疑！没想到你能象到这种地步啊！](https://www.bilibili.com/video/BV13Cxq6fE8S) | <img src="assets/covers/BV13Cxq6fE8S.jpg" alt="cover" width="120"> | 14.5万 | 2026-10-30 |
-| [【锐评】全网最火的动漫歌曲都是哪些？什么水平？一起严肃品鉴！](https://www.bilibili.com/video/BV1mvsX6xE5B) | <img src="assets/covers/BV1mvsX6xE5B.jpg" alt="cover" width="120"> | 108.8万 | 2026-10-29 |
-| [哪怕你不玩游戏，也绝对认识角色！](https://www.bilibili.com/video/BV1k9so6fEPb) | <img src="assets/covers/BV1k9so6fEPb.jpg" alt="cover" width="120"> | 10.1万 | 2026-10-29 |
-| [va到底要说啥？？](https://www.bilibili.com/video/BV16fsf6PEKy) | <img src="assets/covers/BV16fsf6PEKy.jpg" alt="cover" width="120"> | 5.5万 | 2026-10-29 |
-| [吴站长&amp;梅姐《Trouble Maker》【AI MV大赛】](https://www.bilibili.com/video/BV1dEsX6TEGx) | <img src="assets/covers/BV1dEsX6TEGx.jpg" alt="cover" width="120"> | 407.0万 | 2026-10-29 |
-| [【芝恩hires】开屏暴击😋  睡眠引导x指尖魔法刺激绝佳点位](https://www.bilibili.com/video/BV1vcs96BE5C) | <img src="assets/covers/BV1vcs96BE5C.jpg" alt="cover" width="120"> | 11.8万 | 2026-10-28 |
-| [小卖部的猫店员恢复营业，重新开始招揽客人](https://www.bilibili.com/video/BV1ULxE6NEV1) | <img src="assets/covers/BV1ULxE6NEV1.jpg" alt="cover" width="120"> | 5.1万 | 2026-10-28 |
-| [被骗去医院后 彻底哄不好了](https://www.bilibili.com/video/BV1Zox767EyM) | <img src="assets/covers/BV1Zox767EyM.jpg" alt="cover" width="120"> | 10.3万 | 2026-10-28 |
-| [小猫吃席](https://www.bilibili.com/video/BV11HxE6cECk) | <img src="assets/covers/BV11HxE6cECk.jpg" alt="cover" width="120"> | 2.5万 | 2026-10-28 |
-| [带大家看看猫咪幼儿园的最新进展~](https://www.bilibili.com/video/BV1DwxG6SE6z) | <img src="assets/covers/BV1DwxG6SE6z.jpg" alt="cover" width="120"> | 3.4万 | 2026-10-28 |
-| [我要闹了😭2！！！](https://www.bilibili.com/video/BV1KhxV6SE4Z) | <img src="assets/covers/BV1KhxV6SE4Z.jpg" alt="cover" width="120"> | 288.0万 | 2026-10-28 |
-| [咕嘎追凶 第一集 （不知道会不会有第二集）](https://www.bilibili.com/video/BV1zpxG6KEsp) | <img src="assets/covers/BV1zpxG6KEsp.jpg" alt="cover" width="120"> | 49.8万 | 2026-10-28 |
-| [白袜套基米](https://www.bilibili.com/video/BV1HXxM6FEus) | <img src="assets/covers/BV1HXxM6FEus.jpg" alt="cover" width="120"> | 6.7万 | 2026-10-27 |
-| [【ASMR】免疫耳朵别划走！开场3秒直接爽到天灵盖｜高密度触发音](https://www.bilibili.com/video/BV1pHnf6REnX) | <img src="assets/covers/BV1pHnf6REnX.jpg" alt="cover" width="120"> | 7.8万 | 2026-10-26 |
-| [风雪夜独自回黑龙江荒野据点，室内炉火正暖饱餐饮酒，听着外面大雪安静度过慢慢长夜](https://www.bilibili.com/video/BV1m4nd69EHC) | <img src="assets/covers/BV1m4nd69EHC.jpg" alt="cover" width="120"> | 109.6万 | 2026-10-26 |
-| [坦度越来越高了，国服韩信撸不动了！](https://www.bilibili.com/video/BV1YQn96fE18) | <img src="assets/covers/BV1YQn96fE18.jpg" alt="cover" width="120"> | 55.9万 | 2026-10-26 |
-| [皮特携手恶搞之家全成员演唱《uptown funk》](https://www.bilibili.com/video/BV1FLHP6NESZ) | <img src="assets/covers/BV1FLHP6NESZ.jpg" alt="cover" width="120"> | 31.9万 | 2026-10-24 |
-| [☝🤓看完你还有手感吗？塔科夫零资产-第一期](https://www.bilibili.com/video/BV149nm6PEs3) | <img src="assets/covers/BV149nm6PEs3.jpg" alt="cover" width="120"> | 8088 | 2026-10-23 |
-| [“南下の小曲.”｜《Montagem Nada》](https://www.bilibili.com/video/BV11jnm6bEM6) | <img src="assets/covers/BV11jnm6bEM6.jpg" alt="cover" width="120"> | 38.2万 | 2026-10-23 |
-| [【柏林之声】《朝你首都捏一把》](https://www.bilibili.com/video/BV192n66REA2) | <img src="assets/covers/BV192n66REA2.jpg" alt="cover" width="120"> | 30.4万 | 2026-10-21 |
-| [就变一下](https://www.bilibili.com/video/BV1j3nv6LEmD) | <img src="assets/covers/BV1j3nv6LEmD.jpg" alt="cover" width="120"> | 169.2万 | 2026-10-21 |
-| [猫：同伴一只一只被吃，下一个就是我](https://www.bilibili.com/video/BV1EUnA6fE9p) | <img src="assets/covers/BV1EUnA6fE9p.jpg" alt="cover" width="120"> | 17.1万 | 2026-10-20 |
-| [带猫咪疯狂的一天](https://www.bilibili.com/video/BV1AvJB6aEmH) | <img src="assets/covers/BV1AvJB6aEmH.jpg" alt="cover" width="120"> | 212.5万 | 2026-10-18 |
-| [哎呀，它叫这两声给俺朋友迷坏了](https://www.bilibili.com/video/BV1QBJt6SEWk) | <img src="assets/covers/BV1QBJt6SEWk.jpg" alt="cover" width="120"> | 82.3万 | 2026-10-16 |
-| [奶奶提来了一只小土猫](https://www.bilibili.com/video/BV175Jy6gESc) | <img src="assets/covers/BV175Jy6gESc.jpg" alt="cover" width="120"> | 150.4万 | 2026-10-15 |
-| [《哈利波特是大笨蛋！！！》](https://www.bilibili.com/video/BV1r9py6WEfP) | <img src="assets/covers/BV1r9py6WEfP.jpg" alt="cover" width="120"> | 32.4万 | 2026-10-14 |
-| [光头强今天又发疯了 熊出没之夺宝熊兵 baby chaos](https://www.bilibili.com/video/BV1vApR6uE4h) | <img src="assets/covers/BV1vApR6uE4h.jpg" alt="cover" width="120"> | 6604 | 2026-10-12 |
-| [《甲乙丙丁》，但是昭和金曲（citypop日语版）【AI MV大赛】](https://www.bilibili.com/video/BV1CrpM6dEdE) | <img src="assets/covers/BV1CrpM6dEdE.jpg" alt="cover" width="120"> | 215.8万 | 2026-10-09 |
-| [原来表情包小猫都出自这里～](https://www.bilibili.com/video/BV1VFH96bENj) | <img src="assets/covers/BV1VFH96bENj.jpg" alt="cover" width="120"> | 65.3万 | 2026-10-08 |
-| [🐧雨爱鹅企🐧](https://www.bilibili.com/video/BV1FoHf6RE5X) | <img src="assets/covers/BV1FoHf6RE5X.jpg" alt="cover" width="120"> | 102.0万 | 2026-10-06 |
-| [这才是《雨爱司凤版》原版MV，邦吧邦吧邦吧【AI MV大赛】](https://www.bilibili.com/video/BV1qvHd6GEun) | <img src="assets/covers/BV1qvHd6GEun.jpg" alt="cover" width="120"> | 366.5万 | 2026-10-05 |
-| [补档:对大猫哈气会怎么样](https://www.bilibili.com/video/BV1jHht6DEJW) | <img src="assets/covers/BV1jHht6DEJW.jpg" alt="cover" width="120"> | 17.2万 | 2026-09-23 |
-| [你长大了，该了解Token了](https://www.bilibili.com/video/BV1wrba6iEde) | <img src="assets/covers/BV1wrba6iEde.jpg" alt="cover" width="120"> | 46.5万 | 2026-08-18 |
-| [丁真：再嘬一口入肺里，是我今生唯一的夙愿...《死一样的抽过》](https://www.bilibili.com/video/BV1tJ4m1T7QL) | <img src="assets/covers/BV1tJ4m1T7QL.jpg" alt="cover" width="120"> | 2391.3万 | 2024-06-23 |
+| [陪玩市场倒下后，最先遭殃竟然是哈基米](https://www.bilibili.com/video/BV1KSWu6PEgn) | <img src="assets/covers/BV1KSWu6PEgn.jpg" alt="cover" width="120"> | 1349 | 2026-11-10 |
+| [有了炫迈 谁还敢叫我哈基米](https://www.bilibili.com/video/BV1MyWu6qEx8) | <img src="assets/covers/BV1MyWu6qEx8.jpg" alt="cover" width="120"> | 1071 | 2026-11-10 |
+| [【王者荣耀】 Maleos携手哈基米众将 征战排位😎☝️第3期](https://www.bilibili.com/video/BV1Ph4L6HEwk) | <img src="assets/covers/BV1Ph4L6HEwk.jpg" alt="cover" width="120"> | 9 | 2026-11-10 |
+| [哈基米也会闪身步，成功逃脱赛博坦星人](https://www.bilibili.com/video/BV1vpWt6eE1e) | <img src="assets/covers/BV1vpWt6eE1e.jpg" alt="cover" width="120"> | 364 | 2026-11-10 |
+| [没有视野也能找到轮胎吗哈基米你这家伙](https://www.bilibili.com/video/BV1BKWg6pEWu) | <img src="assets/covers/BV1BKWg6pEWu.jpg" alt="cover" width="120"> | 1237 | 2026-11-10 |
+| [用卡牌来保护哈基米～](https://www.bilibili.com/video/BV1FcWg6dEvr) | <img src="assets/covers/BV1FcWg6dEvr.jpg" alt="cover" width="120"> | 1417 | 2026-11-10 |
+| [哈基米：整的挺好 下次不要换了～](https://www.bilibili.com/video/BV1oTWg6DEJG) | <img src="assets/covers/BV1oTWg6DEJG.jpg" alt="cover" width="120"> | 44 | 2026-11-10 |
+| [小基米只是太害怕了](https://www.bilibili.com/video/BV17WWT6VEJw) | <img src="assets/covers/BV17WWT6VEJw.jpg" alt="cover" width="120"> | 691 | 2026-11-10 |
+| [万一是基米自己买的呢](https://www.bilibili.com/video/BV1itWT66Ece) | <img src="assets/covers/BV1itWT66Ece.jpg" alt="cover" width="120"> | 269 | 2026-11-10 |
+| [哈基米到处乱拉该怎么惩罚](https://www.bilibili.com/video/BV1ndWT6HEPe) | <img src="assets/covers/BV1ndWT6HEPe.jpg" alt="cover" width="120"> | 100 | 2026-11-10 |
+| [操场南北绿豆哈基米处刑曲，我带过最差的一届](https://www.bilibili.com/video/BV1R3WM6gEWw) | <img src="assets/covers/BV1R3WM6gEWw.jpg" alt="cover" width="120"> | 419 | 2026-11-10 |
+| [我的哈基米](https://www.bilibili.com/video/BV1UnWM6PE46) | <img src="assets/covers/BV1UnWM6PE46.jpg" alt="cover" width="120"> | 232 | 2026-11-10 |
+| [哈娜「看哈基米 哈基米困了」](https://www.bilibili.com/video/BV1uHWM6eEr6) | <img src="assets/covers/BV1uHWM6eEr6.jpg" alt="cover" width="120"> | 365 | 2026-11-10 |
+| [kK园区里的哈基米](https://www.bilibili.com/video/BV1Q7WM6KE8h) | <img src="assets/covers/BV1Q7WM6KE8h.jpg" alt="cover" width="120"> | 920 | 2026-11-10 |
+| [“类魂”——游戏界的哈基米](https://www.bilibili.com/video/BV1yMWT6WEgq) | <img src="assets/covers/BV1yMWT6WEgq.jpg" alt="cover" width="120"> | 2.3万 | 2026-11-10 |
+| [哈基米课堂开课啦！3分钟讲清楚离婚诉讼管辖](https://www.bilibili.com/video/BV17AWM62EFp) | <img src="assets/covers/BV17AWM62EFp.jpg" alt="cover" width="120"> | 28 | 2026-11-10 |
+| [无能的丈夫和他的最爱 哈基米遇上布鲁斯的可爱瞬间](https://www.bilibili.com/video/BV1dMWM6GEb9) | <img src="assets/covers/BV1dMWM6GEb9.jpg" alt="cover" width="120"> | 167 | 2026-11-10 |
+| [哈-哈-哈-凤哈基米｜邦吧邦吧邦吧邦吧｜司凤版｜通透](https://www.bilibili.com/video/BV1NpWP67EZj) | <img src="assets/covers/BV1NpWP67EZj.jpg" alt="cover" width="120"> | 29 | 2026-11-10 |
+| [主打一个精准！哈基米化身“接水小能手”网友：方师傅是接水界的天花板](https://www.bilibili.com/video/BV1oKWM6CEkw) | <img src="assets/covers/BV1oKWM6CEkw.jpg" alt="cover" width="120"> | 2807 | 2026-11-10 |
+| [哈基米霸王龙形态对决珍贵影像](https://www.bilibili.com/video/BV1ytWM6bEtM) | <img src="assets/covers/BV1ytWM6bEtM.jpg" alt="cover" width="120"> | 598 | 2026-11-10 |
+| [基米这厢有礼了（27年新春必听）](https://www.bilibili.com/video/BV1yaWM6dEHH) | <img src="assets/covers/BV1yaWM6dEHH.jpg" alt="cover" width="120"> | 202 | 2026-11-10 |
+| [哈基米被螃蟹夹得嗷嗷叫](https://www.bilibili.com/video/BV1ybWM6ZEGY) | <img src="assets/covers/BV1ybWM6ZEGY.jpg" alt="cover" width="120"> | 6908 | 2026-11-10 |
+| [冬天寻找人类帮助的哈基米](https://www.bilibili.com/video/BV1ChWM64EFR) | <img src="assets/covers/BV1ChWM64EFR.jpg" alt="cover" width="120"> | 647 | 2026-11-10 |
+| [哈基米正在偷吃烤鸭](https://www.bilibili.com/video/BV1W2WN6SELx) | <img src="assets/covers/BV1W2WN6SELx.jpg" alt="cover" width="120"> | 382 | 2026-11-10 |
+| [哈基米晒太阳](https://www.bilibili.com/video/BV1cRWN65EgP) | <img src="assets/covers/BV1cRWN65EgP.jpg" alt="cover" width="120"> | 889 | 2026-11-10 |
+| [哈基米蓝牙连接成功](https://www.bilibili.com/video/BV1cRWN65EJx) | <img src="assets/covers/BV1cRWN65EJx.jpg" alt="cover" width="120"> | 198 | 2026-11-10 |
+| [人类拱火哈基米](https://www.bilibili.com/video/BV1rRWN65ETf) | <img src="assets/covers/BV1rRWN65ETf.jpg" alt="cover" width="120"> | 242 | 2026-11-10 |
+| [二郎显圣基米](https://www.bilibili.com/video/BV1cQWN6jEhv) | <img src="assets/covers/BV1cQWN6jEhv.jpg" alt="cover" width="120"> | 201 | 2026-11-10 |
+| [元首基米](https://www.bilibili.com/video/BV1HQWN6jEAD) | <img src="assets/covers/BV1HQWN6jEAD.jpg" alt="cover" width="120"> | 338 | 2026-11-10 |
+| [哈基米老吴撼地掌快出残影](https://www.bilibili.com/video/BV1MiWN64E7k) | <img src="assets/covers/BV1MiWN64E7k.jpg" alt="cover" width="120"> | 445 | 2026-11-10 |
+| [陪跑的滑板教练狗#偶遇哈基米 #狗子向你奔来的喜悦](https://www.bilibili.com/video/BV1dNWK6iEw8) | <img src="assets/covers/BV1dNWK6iEw8.jpg" alt="cover" width="120"> | 107 | 2026-11-10 |
+| [哈基米录像之怼脸的压迫感](https://www.bilibili.com/video/BV1ywWx6gEqq) | <img src="assets/covers/BV1ywWx6gEqq.jpg" alt="cover" width="120"> | 202 | 2026-11-10 |
+| [我今今今今天又想测试一下这个不同国际版的Gemini哈基米了！人工智能。](https://www.bilibili.com/video/BV1U5WP6QE9A) | <img src="assets/covers/BV1U5WP6QE9A.jpg" alt="cover" width="120"> | 77 | 2026-11-09 |
+| [哈基米一家被蟒蛇发现猫妈打不过被咬出痛苦面具](https://www.bilibili.com/video/BV1P4Wb6DEEo) | <img src="assets/covers/BV1P4Wb6DEEo.jpg" alt="cover" width="120"> | 919 | 2026-11-09 |
+| [哈基米Gemini猫娘竞速最超开心的一集已完结中英双语字幕版2](https://www.bilibili.com/video/BV1sWWP62EWN) | <img src="assets/covers/BV1sWWP62EWN.jpg" alt="cover" width="120"> | 121 | 2026-11-09 |
+| [哈基米](https://www.bilibili.com/video/BV1vzWP6vEo2) | <img src="assets/covers/BV1vzWP6vEo2.jpg" alt="cover" width="120"> | 116 | 2026-11-09 |
+| [一只优雅可爱的哈基米南北绿豆猫](https://www.bilibili.com/video/BV1ciWb6yEvt) | <img src="assets/covers/BV1ciWb6yEvt.jpg" alt="cover" width="120"> | 115 | 2026-11-09 |
+| [挑战修复三角洲哈基米漫波鼠鼠黑图2(还有diss反三角洲乐子内容)](https://www.bilibili.com/video/BV11TW86pEzY) | <img src="assets/covers/BV11TW86pEzY.jpg" alt="cover" width="120"> | 1027 | 2026-11-09 |
+| [【哈基米故事汇】米夏埃尔·科尔哈斯（克莱斯特）（共3P）](https://www.bilibili.com/video/BV1kgW86nEyE) | <img src="assets/covers/BV1kgW86nEyE.jpg" alt="cover" width="120"> | 108 | 2026-11-09 |
+| [阿昭又来给大活唱哈基米之歌啦！](https://www.bilibili.com/video/BV13RWb6aE52) | <img src="assets/covers/BV13RWb6aE52.jpg" alt="cover" width="120"> | 5656 | 2026-11-09 |
+| [哈基米生活记录](https://www.bilibili.com/video/BV16JW865EhR) | <img src="assets/covers/BV16JW865EhR.jpg" alt="cover" width="120"> | 64 | 2026-11-09 |
+| [[舞战纪/谱面制作]原创曲《哈基米天国》高级16难](https://www.bilibili.com/video/BV16JW865ENj) | <img src="assets/covers/BV16JW865ENj.jpg" alt="cover" width="120"> | 119 | 2026-11-09 |
+| [艾 莫 番 茄 宣 传 片 看看哈基米的审美](https://www.bilibili.com/video/BV1BWW86rEnS) | <img src="assets/covers/BV1BWW86rEnS.jpg" alt="cover" width="120"> | 117 | 2026-11-09 |
+| [【哈基米爱打游戏】最新视频上线，求关注！](https://www.bilibili.com/video/BV1EcWh6jEFE) | <img src="assets/covers/BV1EcWh6jEFE.jpg" alt="cover" width="120"> | 71 | 2026-11-09 |
+| [哈基米捡到钻石剑(摸金)](https://www.bilibili.com/video/BV1pRW86nER3) | <img src="assets/covers/BV1pRW86nER3.jpg" alt="cover" width="120"> | 104 | 2026-11-09 |
+| [哈基米上手体验26款MacBook Pro](https://www.bilibili.com/video/BV1sQW86pE7e) | <img src="assets/covers/BV1sQW86pE7e.jpg" alt="cover" width="120"> | 1677 | 2026-11-09 |
+| [哈基米：拍完记得付一下钱](https://www.bilibili.com/video/BV1bCW86ZEFe) | <img src="assets/covers/BV1bCW86ZEFe.jpg" alt="cover" width="120"> | 141 | 2026-11-09 |
+| [哈基米回归喵星](https://www.bilibili.com/video/BV18rW86FEjN) | <img src="assets/covers/BV18rW86FEjN.jpg" alt="cover" width="120"> | 321 | 2026-11-09 |
+| [【哈基米爱打游戏】最新视频已上线，快来围观！](https://www.bilibili.com/video/BV1CKWt6LEqd) | <img src="assets/covers/BV1CKWt6LEqd.jpg" alt="cover" width="120"> | 11 | 2026-11-09 |
+| [哈基米，集结！【小猫骑士版】](https://www.bilibili.com/video/BV1AgWt6CEpX) | <img src="assets/covers/BV1AgWt6CEpX.jpg" alt="cover" width="120"> | 212 | 2026-11-09 |
+| [踩奶哈基米](https://www.bilibili.com/video/BV18aWt6tE6F) | <img src="assets/covers/BV18aWt6tE6F.jpg" alt="cover" width="120"> | 157 | 2026-11-09 |
+| [带比比拉布和刀盾逛动物园，快乐直接拉满！ #updream #哈基米 #猫meme #可爱刀爆炸](https://www.bilibili.com/video/BV1iHWt6NE5N) | <img src="assets/covers/BV1iHWt6NE5N.jpg" alt="cover" width="120"> | 680 | 2026-11-09 |
+| [哈基米南北绿豆](https://www.bilibili.com/video/BV1pDWt6LEF6) | <img src="assets/covers/BV1pDWt6LEF6.jpg" alt="cover" width="120"> | 146 | 2026-11-09 |
+| [11.09哈基米](https://www.bilibili.com/video/BV1Q5Wb6fE1T) | <img src="assets/covers/BV1Q5Wb6fE1T.jpg" alt="cover" width="120"> | 1044 | 2026-11-09 |
+| [哈基米永不为奴！喵族崛起！](https://www.bilibili.com/video/BV1UnWb6REXY) | <img src="assets/covers/BV1UnWb6REXY.jpg" alt="cover" width="120"> | 113 | 2026-11-09 |
+| [第3次哈基米多顿战争](https://www.bilibili.com/video/BV1GuWb6AEZD) | <img src="assets/covers/BV1GuWb6AEZD.jpg" alt="cover" width="120"> | 2133 | 2026-11-09 |
+| [香香软软的小哈基米](https://www.bilibili.com/video/BV1o7Wx6FETY) | <img src="assets/covers/BV1o7Wx6FETY.jpg" alt="cover" width="120"> | 797 | 2026-11-09 |
+| [哈基米，我的生命之光，欲望之火，我的罪亵和我的灵魂 DLC（난 예술이야）](https://www.bilibili.com/video/BV1HDWx6qE72) | <img src="assets/covers/BV1HDWx6qE72.jpg" alt="cover" width="120"> | 388 | 2026-11-09 |
+| [小米HachimoDock哈基米机交互体验](https://www.bilibili.com/video/BV1WCWx6GE8v) | <img src="assets/covers/BV1WCWx6GE8v.jpg" alt="cover" width="120"> | 570 | 2026-11-09 |
+| [基米办公楼跑酷 最绝望的老吴来了](https://www.bilibili.com/video/BV1TLW46nEvu) | <img src="assets/covers/BV1TLW46nEvu.jpg" alt="cover" width="120"> | 25.7万 | 2026-11-09 |
+| [哈基人老吴，哈基米逃跑时被吓得脚滑了](https://www.bilibili.com/video/BV13uW46sEjA) | <img src="assets/covers/BV13uW46sEjA.jpg" alt="cover" width="120"> | 1435 | 2026-11-09 |
+| [哈基米曼波鼠鼠得吃](https://www.bilibili.com/video/BV11DWn6wEpx) | <img src="assets/covers/BV11DWn6wEpx.jpg" alt="cover" width="120"> | 522 | 2026-11-09 |
+| [哈基米的世界](https://www.bilibili.com/video/BV1khW46gENR) | <img src="assets/covers/BV1khW46gENR.jpg" alt="cover" width="120"> | 206 | 2026-11-09 |
+| [可能你是刷视频没开声音的哈基米](https://www.bilibili.com/video/BV1YNWs6JEVW) | <img src="assets/covers/BV1YNWs6JEVW.jpg" alt="cover" width="120"> | 365 | 2026-11-09 |
+| [猫儿这个冲锋](https://www.bilibili.com/video/BV1SkWn6qEJ7) | <img src="assets/covers/BV1SkWn6qEJ7.jpg" alt="cover" width="120"> | 2.1万 | 2026-11-08 |
+| [哈基米南北绿豆，基米忍者永不放弃，sota虚空猫参上](https://www.bilibili.com/video/BV1iMWH6SEku) | <img src="assets/covers/BV1iMWH6SEku.jpg" alt="cover" width="120"> | 150 | 2026-11-08 |
+| [哈基米](https://www.bilibili.com/video/BV16PWH6pEeX) | <img src="assets/covers/BV16PWH6pEeX.jpg" alt="cover" width="120"> | 161 | 2026-11-08 |
+| [这谁看了不害怕](https://www.bilibili.com/video/BV1qgWH6EEgq) | <img src="assets/covers/BV1qgWH6EEgq.jpg" alt="cover" width="120"> | 3.5万 | 2026-11-08 |
+| [哈基米](https://www.bilibili.com/video/BV172WH69Epk) | <img src="assets/covers/BV172WH69Epk.jpg" alt="cover" width="120"> | 107 | 2026-11-08 |
+| [哈基米也是遇到抱蛋虫了](https://www.bilibili.com/video/BV1bLW76bEbv) | <img src="assets/covers/BV1bLW76bEbv.jpg" alt="cover" width="120"> | 391 | 2026-11-08 |
+| [哈基米](https://www.bilibili.com/video/BV1sTWE69EJq) | <img src="assets/covers/BV1sTWE69EJq.jpg" alt="cover" width="120"> | 265 | 2026-11-08 |
+| [哈基米洗澡](https://www.bilibili.com/video/BV1GaWE6qE4y) | <img src="assets/covers/BV1GaWE6qE4y.jpg" alt="cover" width="120"> | 1052 | 2026-11-08 |
+| [美味的我｜妙角维修猫给好友准备立冬四件套的一天！人，立冬快乐](https://www.bilibili.com/video/BV1nG4x65E2Y) | <img src="assets/covers/BV1nG4x65E2Y.jpg" alt="cover" width="120"> | 90.1万 | 2026-11-08 |
+| [《哈基米大冒险》N6最高难度刚更新轻松通关，狗头人差不多抽卡](https://www.bilibili.com/video/BV16h4p6eEpH) | <img src="assets/covers/BV16h4p6eEpH.jpg" alt="cover" width="120"> | 1166 | 2026-11-07 |
+| [[4K][Gemini角色主题曲]对不起，______](https://www.bilibili.com/video/BV1qM4J6XEYJ) | <img src="assets/covers/BV1qM4J6XEYJ.jpg" alt="cover" width="120"> | 4.3万 | 2026-11-07 |
+| [哈基米的罪怎么赎](https://www.bilibili.com/video/BV19h4j6gERT) | <img src="assets/covers/BV19h4j6gERT.jpg" alt="cover" width="120"> | 215 | 2026-11-07 |
+| [咪的命运在大酱人手中了](https://www.bilibili.com/video/BV1qK466yEh7) | <img src="assets/covers/BV1qK466yEh7.jpg" alt="cover" width="120"> | 19.7万 | 2026-11-06 |
+| [【捉迷躲猫王】😱人类智商巅峰时刻~！骗过上帝！印度猎奇躲猫猫](https://www.bilibili.com/video/BV1n54q6kEJ3) | <img src="assets/covers/BV1n54q6kEJ3.jpg" alt="cover" width="120"> | 170.9万 | 2026-11-06 |
+| [太好了，是小猫咪~](https://www.bilibili.com/video/BV1wd4z6pEaa) | <img src="assets/covers/BV1wd4z6pEaa.jpg" alt="cover" width="120"> | 8912 | 2026-11-06 |
+| [【后院猫咪TV】4K超清小鸟松鼠嬉戏！超逼真自然原声，给猫主子的视觉大餐](https://www.bilibili.com/video/BV1yk4v6yEVo) | <img src="assets/covers/BV1yk4v6yEVo.jpg" alt="cover" width="120"> | 786 | 2026-11-06 |
+| [从一个养猫的小女孩到品牌主理人的心路历程](https://www.bilibili.com/video/BV1ox4q6PELp) | <img src="assets/covers/BV1ox4q6PELp.jpg" alt="cover" width="120"> | 10.7万 | 2026-11-06 |
+| [咪师傅夺命大汤圆，可能烧胃但一定不烧心](https://www.bilibili.com/video/BV1ix4q6NEbS) | <img src="assets/covers/BV1ix4q6NEbS.jpg" alt="cover" width="120"> | 1.2万 | 2026-11-06 |
+| [【哈奇米大战哈吉米】最新视频来袭，快来看看吧！](https://www.bilibili.com/video/BV13e4q6fETP) | <img src="assets/covers/BV13e4q6fETP.jpg" alt="cover" width="120"> | 5095 | 2026-11-06 |
+| [我的刀盾参加运动会，遇到会动的冰淇淋？！](https://www.bilibili.com/video/BV19g4B6PEta) | <img src="assets/covers/BV19g4B6PEta.jpg" alt="cover" width="120"> | 119.2万 | 2026-11-06 |
+| [看我装傻阴它一手](https://www.bilibili.com/video/BV1pY4B6EERA) | <img src="assets/covers/BV1pY4B6EERA.jpg" alt="cover" width="120"> | 15.1万 | 2026-11-06 |
+| [疯狂咬人缅因改造-叮当-应激创伤胆小敏感](https://www.bilibili.com/video/BV1Wb4i6VENV) | <img src="assets/covers/BV1Wb4i6VENV.jpg" alt="cover" width="120"> | 9.6万 | 2026-11-06 |
+| [小米工程师开源哈基米桌宠！复刻成本150块](https://www.bilibili.com/video/BV16S4Y6wETS) | <img src="assets/covers/BV16S4Y6wETS.jpg" alt="cover" width="120"> | 2425 | 2026-11-06 |
+| [大肥鱼：自 由 美 利 鲸](https://www.bilibili.com/video/BV1YdxR6CE79) | <img src="assets/covers/BV1YdxR6CE79.jpg" alt="cover" width="120"> | 216.7万 | 2026-11-05 |
+| [流浪哈基米大合集](https://www.bilibili.com/video/BV1GY4t6BECP) | <img src="assets/covers/BV1GY4t6BECP.jpg" alt="cover" width="120"> | 385 | 2026-11-05 |
+| [小橘在家喵](https://www.bilibili.com/video/BV17txd6QE4p) | <img src="assets/covers/BV17txd6QE4p.jpg" alt="cover" width="120"> | 8.0万 | 2026-11-04 |
+| [建议大家不要轻易开地狱难度副本……](https://www.bilibili.com/video/BV1w2xS6LEKw) | <img src="assets/covers/BV1w2xS6LEKw.jpg" alt="cover" width="120"> | 32.9万 | 2026-11-04 |
+| [哈基米老吴低视角纯享版](https://www.bilibili.com/video/BV1mExD6pEmh) | <img src="assets/covers/BV1mExD6pEmh.jpg" alt="cover" width="120"> | 509 | 2026-11-04 |
+| [乌萨奇修仙传·极](https://www.bilibili.com/video/BV1wh4P6XEkC) | <img src="assets/covers/BV1wh4P6XEkC.jpg" alt="cover" width="120"> | 215.0万 | 2026-11-03 |
+| [【猫咪电视】4K超清 爆笑小鸟抢食现场！专为猫咪定制的捕猎游戏｜建议投屏](https://www.bilibili.com/video/BV1AJ4u6vEVY) | <img src="assets/covers/BV1AJ4u6vEVY.jpg" alt="cover" width="120"> | 5812 | 2026-11-03 |
+| [打工咪今日下线，您拨打的咪正在休息中](https://www.bilibili.com/video/BV1hp4M6CEZH) | <img src="assets/covers/BV1hp4M6CEZH.jpg" alt="cover" width="120"> | 1.2万 | 2026-11-03 |
+| [真是年纪越大，越爱看这种动画片，超解压！[捂脸]](https://www.bilibili.com/video/BV1Wq4M6PELE) | <img src="assets/covers/BV1Wq4M6PELE.jpg" alt="cover" width="120"> | 4.4万 | 2026-11-03 |
+| [哈基米嚼槟榔](https://www.bilibili.com/video/BV1VU4w6aEaL) | <img src="assets/covers/BV1VU4w6aEaL.jpg" alt="cover" width="120"> | 256 | 2026-11-02 |
+| [我的两米巨猫精通黑客，联手逆袭登顶我成为女首富！](https://www.bilibili.com/video/BV1jmp167EC5) | <img src="assets/covers/BV1jmp167EC5.jpg" alt="cover" width="120"> | 1.7万 | 2026-10-14 |
+| [美味的我｜妙角维修猫收徒弟的一天！#萌宠出道计划#小天鹅本色洗衣房 #小天鹅本色](https://www.bilibili.com/video/BV194pk6PEhu) | <img src="assets/covers/BV194pk6PEhu.jpg" alt="cover" width="120"> | 2.1万 | 2026-10-14 |
+| [哈基米常用音效](https://www.bilibili.com/video/BV1JyYPzyE8w) | <img src="assets/covers/BV1JyYPzyE8w.jpg" alt="cover" width="120"> | 2837 | 2025-09-09 |
 
 ---
-*最后更新: 2026-11-09 09:35:37 (自动生成)*
+*最后更新: 2026-11-10 09:43:42 (自动生成)*
 *数据来源: [Bilibili](https://www.bilibili.com)*
 
 ## 使用说明
